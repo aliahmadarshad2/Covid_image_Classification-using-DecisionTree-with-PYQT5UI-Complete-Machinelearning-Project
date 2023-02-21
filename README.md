@@ -1,1 +1,1 @@
-"# Covid_image_Classification-using-svm-with-PYQT5UI-Complete-Machinelearning-Project" 
+"# Covid_image_Classification-using-Decision TRee-with-PYQT5UI-Complete-Machinelearning-Project" 
